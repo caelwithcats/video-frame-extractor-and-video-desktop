@@ -1,4 +1,7 @@
 # Desktop Refresher
+
+WARNING: This is pre-release software. I cannot be held responsible for any damage done during the process of using the software.
+
 The goal is to have a video as your desktop background. Right now I am working on extracting the frames from the video and perfecting the algorithm.
 
 There are few bugs in the program at the moment. Here is a list of bugs that needs fixing:
